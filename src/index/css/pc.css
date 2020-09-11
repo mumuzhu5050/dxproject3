@@ -1,0 +1,15 @@
+.logo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.logo img{
+    width: 96px;
+    height: 48px;
+}
+
+.logo span{
+    font-size: 24px;
+    padding-left: 5px;
+}
